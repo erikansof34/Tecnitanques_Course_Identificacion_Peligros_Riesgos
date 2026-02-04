@@ -1,0 +1,1 @@
+export const COURSE_NAME = '| Identificación de Peligros Valoración de Riesgos Establecimiento de Controles (IPVREC)';
